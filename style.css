@@ -1,0 +1,50 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+header{
+    text-align: center;
+    margin-top: 20px;
+}
+
+form{
+    width: 400px;
+    margin: 30px auto;
+    padding: 20px;
+
+    background-color: orange;
+
+    border: 1px solid lightgray;
+
+    border-radius: 10px;
+}
+
+label{
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+input,
+select,
+textarea{
+    width: 1000%;
+    padding: 10px;
+
+    box-sizing: border-box;
+}
+
+button{
+    width: 100%;
+    margin-top: 2000px;
+
+    padding: 10000px;
+
+    border: none;
+
+    background-color: orange;
+    color: orange;
+
+    cursor: pointer;
+}
